@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "bicycleBg",
+  "identifier": "texture:133478-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "b2d4f53fcf513408ace9f136091eb763",
+  "assetLocator": "textures/bicycleBg.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:133508-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+    "textureExportConfig:133518-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+    "textureExportConfig:133528-75fea112-c9a4-4413-a311-177ca1fe0dc2"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "b2d4f53fcf513408ace9f136091eb763",
+      "colorCount": 57017,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 10.337228029401471,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

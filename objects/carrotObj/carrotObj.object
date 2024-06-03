@@ -1,0 +1,204 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "carrotObj",
+  "identifier": "master3_d_object_model:111806-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+  "sourceIdentifier": "asset_collection_model:111810-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.9082000255584717,
+  "globalScaleFactor": 0.5737944077021323,
+  "height": 3.4855690002441406,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 3.427260398864746,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Root",
+      "identifier": "sceneObject:111782-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "Carrot",
+          "identifier": "sceneObject:111784-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0.7742751836776733,
+            "rz": 0,
+            "sx": 1.0000027418136597,
+            "sy": 1,
+            "sz": 1.0000027418136597,
+            "x": 0.1759655475616455,
+            "y": -0.0007975742337293923,
+            "z": 1.1214467287063599
+          },
+          "children": [
+            {
+              "modelName": "mesh",
+              "name": "Carrot_0",
+              "identifier": "mesh:111786-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "Carrot_0",
+              "numberOfFaces": 96,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:111790-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:111788-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:111793-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:111768-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+                      "surfaceGroupIdentifier": "111794-75fea112-c9a4-4413-a311-177ca1fe0dc2"
+                    }
+                  ]
+                },
+                {
+                  "modelName": "blend_shapes_model",
+                  "identifier": "blend_shapes_model:97959-119aa3ad-a905-4489-b2db-8764911adf45"
+                }
+              ]
+            },
+            {
+              "modelName": "mesh",
+              "name": "Carrot_1",
+              "identifier": "mesh:111796-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "Carrot_1",
+              "numberOfFaces": 40,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:111800-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:111798-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:111803-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:111774-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+                      "surfaceGroupIdentifier": "111804-75fea112-c9a4-4413-a311-177ca1fe0dc2"
+                    }
+                  ]
+                },
+                {
+                  "modelName": "blend_shapes_model",
+                  "identifier": "blend_shapes_model:97961-119aa3ad-a905-4489-b2db-8764911adf45"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

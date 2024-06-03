@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "cat-bg",
+  "identifier": "texture:598483-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4c5ba9fa3d541810e19b47a2ecb7fbad",
+  "assetLocator": "textures/cat-bg.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:598505-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+    "textureExportConfig:598507-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+    "textureExportConfig:598509-34333a5b-87a5-4e42-8755-f2c69a3987a2"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4c5ba9fa3d541810e19b47a2ecb7fbad",
+      "colorCount": 37250,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 10.533849601685954,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

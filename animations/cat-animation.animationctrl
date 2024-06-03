@@ -1,0 +1,12 @@
+{
+  "modelName": "animation_playback_controller_model",
+  "name": "cat-animation",
+  "identifier": "animation_playback_controller_model:612467-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+  "animationIdentifier": "objects/scene/Take 001.animation",
+  "autoPlay": true,
+  "clipEnd": 6,
+  "clipProgress": 0,
+  "clipStart": 0,
+  "loop": true,
+  "speed": 1
+}

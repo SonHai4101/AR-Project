@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "cat-audioController",
+  "identifier": "playback_controller_model:613749-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:613751-34333a5b-87a5-4e42-8755-f2c69a3987a2"
+}

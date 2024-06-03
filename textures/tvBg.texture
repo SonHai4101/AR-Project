@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "tvBg",
+  "identifier": "texture:133486-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5561d9a1f255acf46eaa91bcd519cf89",
+  "assetLocator": "textures/tvBg.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:133510-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+    "textureExportConfig:133520-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+    "textureExportConfig:133530-75fea112-c9a4-4413-a311-177ca1fe0dc2"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5561d9a1f255acf46eaa91bcd519cf89",
+      "colorCount": 77318,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 11.637767280856071,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

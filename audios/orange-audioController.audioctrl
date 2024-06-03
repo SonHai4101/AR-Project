@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "orange-audioController",
+  "identifier": "playback_controller_model:144867-6d5df7a3-b2b7-47e5-9c57-3c353fff353c",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:143353-6d5df7a3-b2b7-47e5-9c57-3c353fff353c"
+}

@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "carrotBg",
+  "identifier": "texture:133470-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "0cb271a5eea268c609cc60f05959e015",
+  "assetLocator": "textures/carrotBg.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:133498-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+    "textureExportConfig:133500-75fea112-c9a4-4413-a311-177ca1fe0dc2",
+    "textureExportConfig:133502-75fea112-c9a4-4413-a311-177ca1fe0dc2"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0cb271a5eea268c609cc60f05959e015",
+      "colorCount": 51294,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 9.881143070896115,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

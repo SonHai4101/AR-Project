@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "car-bg",
+  "identifier": "texture:598487-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e86594ac2b391acf2277a455eb54bc15",
+  "assetLocator": "textures/car-bg.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:598493-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+    "textureExportConfig:598495-34333a5b-87a5-4e42-8755-f2c69a3987a2",
+    "textureExportConfig:598497-34333a5b-87a5-4e42-8755-f2c69a3987a2"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e86594ac2b391acf2277a455eb54bc15",
+      "colorCount": 75470,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 11.876072106903255,
+      "pixelsHigh": 1024,
+      "pixelsWide": 768
+    }
+  ]
+}

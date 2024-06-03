@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "carrot-audioController",
+  "identifier": "playback_controller_model:144859-6d5df7a3-b2b7-47e5-9c57-3c353fff353c",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:143351-6d5df7a3-b2b7-47e5-9c57-3c353fff353c"
+}
